@@ -1,0 +1,4 @@
+import datasets
+print(f"Current datasets version: {datasets.__version__}")
+!pip uninstall datasets huggingface-hub -y
+!pip install datasets==2.16.0 huggingface-hub==0.23.0
