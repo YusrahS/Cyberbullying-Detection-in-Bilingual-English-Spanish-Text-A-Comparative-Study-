@@ -3,7 +3,6 @@ import os
 # Create directory if it doesn't exist
 os.makedirs('src/visualization', exist_ok=True)
 
-%%writefile src/visualization/plot.py
 """
 Plotting functions for EDA and visualizations.
 """
