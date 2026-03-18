@@ -57,3 +57,11 @@ def load_english_corpus(data_path='Datasets/processed/english_corpus.csv'):
     else:
         print(f" File not found: {data_path}")
         return None
+
+def load_english_data(data_path='Datasets/processed/english_dataset_reformatted.csv'):
+    if os.path.exists(data_path):
+        df = pd.read_csv(data_path)
+        return df
+    else:
+        print(f" File not found: {data_path}")
+        return None
