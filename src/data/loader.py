@@ -18,7 +18,7 @@ def load_bilingual_dataset(path='Datasets/processed/Bilingual_corpus.csv'):
         print(f" File not found: {path}")
         return None
 
-def load_offendes_colombian_dataset(path='Datasets/processed/offendes_colombia.csv'):
+def load_offendes_colombian_dataset(path='Datasets/processed/offendes_colombian.csv'):
     if os.path.exists(path):
         df = pd.read_csv(path)
         return df
@@ -58,7 +58,7 @@ def load_english_corpus(data_path='Datasets/processed/english_corpus.csv'):
         print(f" File not found: {data_path}")
         return None
 
-def load_english_data(data_path='Datasets/processed/english_dataset_reformatted.csv'):
+def load_english_dataset(data_path='Datasets/processed/english_dataset_reformatted.csv'):
     if os.path.exists(data_path):
         df = pd.read_csv(data_path)
         return df
