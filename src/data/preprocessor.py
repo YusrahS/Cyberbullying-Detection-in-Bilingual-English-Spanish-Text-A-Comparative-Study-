@@ -1,4 +1,5 @@
 #text cleaning function for whole dataset
+import pandas as pd
 def clean_text(text):
     if pd.isna(text):
         return ""
