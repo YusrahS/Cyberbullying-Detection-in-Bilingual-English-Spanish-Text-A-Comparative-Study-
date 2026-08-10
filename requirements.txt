@@ -1,0 +1,16 @@
+transformers==4.44.0
+torch==2.4.0
+peft==0.19.1
+trl
+bitsandbytes
+accelerate
+datasets
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+spacy
+tensorflow
+gensim
+statsmodels
