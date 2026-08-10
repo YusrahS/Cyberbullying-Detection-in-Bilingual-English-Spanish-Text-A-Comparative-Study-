@@ -38,19 +38,20 @@ target-language examples recover 73.7%.
 ## Repository structure
 
 ```
-datasets/
-  raw/                 unmodified source datasets, one folder per source
+Datasets/
+  raw/                 unmodified source Datasets, one folder per source
   processed/           reformatted to a common schema
   balanced/            class-balanced corpora (English, Spanish, bilingual)
   dataset_splits/      train/validation/test splits used by every experiment
-  pickles/             tokenised and embedded data for the BiLSTM and transformers
-notebooks/             the experimental pipeline, run in numerical order
+Notebooks/             the experimental pipeline, run in numerical order
 reports/
   figures/             figures used in the dissertation
-  results/             metrics for every run, and the summary tables
+  results/             metrics for every run
 src/
   data/preprocessor.py text cleaning shared across notebooks
 requirements.txt
+data/
+    pickles/             tokenised and embedded data for the BiLSTM and transformers
 ```
 
 Trained model checkpoints are not included: they exceed GitHub's 100 MB limit.
@@ -61,7 +62,7 @@ Every metrics file needed to verify the reported numbers is in `reports/results/
 ## Data
 
 Five publicly available sources were merged into a balanced corpus of 93,301
-samples. Each `datasets/raw/` subfolder carries its own README with the original
+samples. Each `Datasets/raw/` subfolder carries its own README with the original
 source and licence.
 
 | Source | Language | Contribution |
@@ -138,4 +139,4 @@ five original data sources listed above.
 
 ## Author
 
-Yusrah S — MSc Artificial Intelligence, University of Surrey.
+Umme-Yusrah Sumtally — MSc Artificial Intelligence, University of Surrey.
