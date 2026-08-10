@@ -128,14 +128,6 @@ Where a training cell would overwrite a saved checkpoint, it is guarded and left
 unexecuted, with its original output retained as the record of training. The
 notebooks reload saved models rather than retraining.
 
----
-
-## Citation
-
-If you use this corpus or these results, please cite the dissertation and the
-five original data sources listed above.
-
----
 
 ## Author
 
