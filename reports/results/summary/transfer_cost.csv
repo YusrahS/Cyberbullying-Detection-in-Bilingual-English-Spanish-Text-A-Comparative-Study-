@@ -1,0 +1,6 @@
+Model,ES-only,ES→EN,Transfer cost (pp)
+XLM-R,0.886,0.6313,25.5
+BETO (monolingual ES),0.899,0.6194,28.0
+BiLSTM,0.7691,0.4462,32.3
+DistilBERT,0.8684,0.5396,32.9
+mBERT,0.8773,0.5456,33.2

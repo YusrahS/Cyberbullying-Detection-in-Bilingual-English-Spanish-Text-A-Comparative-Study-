@@ -1,0 +1,22 @@
+Run,Macro F1,n,source
+xlmr_bilingual_full,0.918,13984,file
+xlmr_bilingual_en,0.9297,9843,file
+xlmr_bilingual_es,0.8904,4141,file
+mbert_bilingual_full,0.9103,13984,file
+mbert_bilingual_en,0.9264,9843,file
+mbert_bilingual_es,0.8719,4141,file
+distilbert_bilingual_full,0.9088,13984,file
+distilbert_bilingual_en,0.9261,9843,file
+distilbert_bilingual_es,0.8676,4141,file
+xlmr_en_only,0.9294,9843,file
+xlmr_es_only,0.886,4141,file
+mbert_en_only,0.9257,9843,file
+mbert_es_only,0.8773,4141,file
+distilbert_en_only,0.9262,9843,notebook output
+distilbert_es_only,0.8684,4141,file
+xlmr_en2es,0.4942,4141,file
+xlmr_es2en,0.6313,9843,file
+mbert_en2es,0.4077,4141,file
+mbert_es2en,0.5456,9843,file
+distilbert_en2es,0.4301,4141,file
+distilbert_es2en,0.5396,9843,file

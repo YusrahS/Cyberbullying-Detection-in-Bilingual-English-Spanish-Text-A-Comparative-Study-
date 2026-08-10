@@ -1,0 +1,7 @@
+Model,Direction,F1 before,F1 after,F1 change,Abusive before,Abusive after,Abusive change,Non-Ab before,Non-Ab after
+DistilBERT,EN→ES,0.4301,0.4559,+2.58 pp,0.1169,0.1657,+4.88 pp,0.9329,0.888
+DistilBERT,ES→EN,0.5396,0.5665,+2.69 pp,0.279,0.3289,+4.98 pp,0.8843,0.8666
+mBERT,EN→ES,0.4077,0.4276,+2.00 pp,0.0957,0.1121,+1.64 pp,0.9218,0.9387
+mBERT,ES→EN,0.5456,0.5597,+1.41 pp,0.2794,0.3032,+2.38 pp,0.8985,0.8922
+XLM-R,EN→ES,0.4942,0.5075,+1.33 pp,0.2783,0.3135,+3.53 pp,0.7716,0.7479
+XLM-R,ES→EN,0.6313,0.65,+1.87 pp,0.419,0.4678,+4.88 pp,0.8831,0.8587
