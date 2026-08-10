@@ -1,1 +1,9 @@
+# Metrics files
 
+One value reported in the dissertation has no metrics file here.
+
+**distilbert_en_only — macro F1 0.9262**, non-abusive recall 0.9178,
+abusive recall 0.9347, n = 9,843. The serialised outputs for this run
+were lost during a consolidation of the results folders. The figure is
+taken from Notebook 5's retained cell output, which is the primary
+record of the run. See the dissertation, Section 4.4.
