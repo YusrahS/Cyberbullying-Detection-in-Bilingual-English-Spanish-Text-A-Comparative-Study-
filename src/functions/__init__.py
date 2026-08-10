@@ -1,4 +1,4 @@
 """
-Data module for cyberbullying detection.
-Contains loader, preprocessor, and splitter functions.
+functions module for cyberbullying detection.
+contains preprocessor
 """
