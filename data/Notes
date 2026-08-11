@@ -1,0 +1,5 @@
+The BiLSTM pickle files are too large to upload on GitHub
+
+bilingual_bilstm_data.pkl    222.9 MB
+english_bilstm_data.pkl      133.2 MB
+spanish_bilstm_data.pkl      101.9 MB
