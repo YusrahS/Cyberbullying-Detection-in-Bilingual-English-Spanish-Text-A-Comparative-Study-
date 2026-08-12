@@ -1,0 +1,31 @@
+text,language,binary_label,source,platform,bilstm_pred,distilbert_pred,mbert_pred,xlmr_pred,ensemble_pred,error_type,error_category,notes
+Also the video about Turdis was in direct response to him abusing and bullying a(@YouTube,en,1,English_CB,twitter,0,0,0,0,0,False Negative,lexical trigger,
+If someone has to get the highest score in history:,en,1,English_CB,twitter,0,0,0,0,0,False Negative,ambiguous,
+Seriously Nikki. Keep your arms down to hide the bingo wings and back flab. EEEE #mkr2015 #mkr #mykitchenrules,en,1,English_CB,twitter,0,1,0,1,0,False Negative,other,body shaming
+"@MadcapOcelot this was interesting, too.",en,1,English_CB,twitter,0,1,0,0,0,False Negative,ambiguous,
+blowing kisses to Hatock before we battle. #selfie #warcraft,en,1,English_CB,twitter,0,1,1,0,0,False Negative,label_noise,
+"I think the real question is: why do you sign your tweets with KT? You realize that your name is right there, yeah? @kelseytheodore2",en,1,English_CB,twitter,0,0,1,0,0,False Negative,other,direct address
+RT @TrueFactsStated: A nasty piece of work with a speech impediment. Not your grandfather's Nazi,en,1,English_CB,twitter,1,0,1,0,0,False Negative,implicit,
+@sexyconserv Both. My desire to play video games is never stronger than after sex. Can finally focus on something other than sex...,en,1,English_CB,twitter,0,0,1,0,0,False Negative,lexical trigger,
+#ggautoblocker violates the Logan Act.,en,1,English_CB,twitter,1,0,0,0,0,False Negative,ambiguous,
+@dsplaisted @TheQuinnspiracy it was great to meet you! Thank you for the kind words.,en,1,English_CB,twitter,1,0,0,0,0,False Negative,label_noise,
+this isn't just gamergate this isn't just gamergate this isn't just gamergate this is a more obvious version of what already happens,en,1,English_CB,twitter,1,1,1,0,0,False Negative,ambiguous,
+@DanaSheehan What right do you lack?,en,1,English_CB,twitter,0,0,1,0,0,False Negative,other,low content
+Then I met ruby. We had a good time. I thought I was in love.,en,1,English_CB,twitter,1,0,0,0,0,False Negative,label_noise,
+"er, THOSE.",en,0,English_CB,twitter,1,1,1,1,1,False Positive,other,marginal
+"@watan71969 @s_rsantorini630 @pari_passu Seen that crap. It's lies. For example, there were never more than 5 million American Imdians.",en,0,English_CB,twitter,0,1,0,1,1,False Positive,lexical trigger,
+@dunno_someguy i love &amp; support sex workers. am friends with many.,en,0,English_CB,twitter,1,1,1,1,1,False Positive,other,direct address
+@djtyrant i was pretty proud of that.,en,0,English_CB,twitter,1,1,1,0,1,False Positive,ambiguous,
+and yet no word on this case? So only freedom of Christians that think exactly like you?,en,0,TweetEval,twitter,0,1,1,1,1,False Positive,ambiguous,
+"@samred no rush or anything. like i said, it's been up for a while. i just noticed, though. :)",en,0,English_CB,twitter,0,1,1,1,1,False Positive,other,just a simple phrase - probably sarcasm
+"@rogue_allah @DianH4 True. If you consider all the Muslims that other Muslims disqualify as Muslims, there would only be a couple of million",en,0,English_CB,twitter,1,1,1,1,1,False Positive,other,Discrimination about religion
+Stalk aka respond to a blog post he made about me after Id forgotten all about him. @PailOfAwesome @ProfessorF @chrisvcsefalvay,en,0,English_CB,twitter,0,1,1,1,1,False Positive,implicit,
+pseudonyms are good. own it! anonymous is not the same thing. what jason/wadhwa are promoting would require ID/home address/PAY TO USE,en,0,English_CB,twitter,0,1,1,1,1,False Positive,ambiguous,
+@amyvdh i'm a little jealous. I love the snow.,en,0,English_CB,twitter,0,1,1,1,1,False Positive,other,direct address
+@jusstJordan_ bully how u been livin !! lol,en,0,English_CB,twitter,1,1,1,0,1,False Positive,lexical trigger,
+@Lawwwen @curdistani The religion of peace takes over.,en,0,English_CB,twitter,0,1,1,1,1,False Positive,other ,religion discrimination
+I want more than 5 private repos in github gdi.,en,0,English_CB,twitter,0,0,1,1,1,False Positive,other,simple phrase
+He's been offered contact info from those he's speaking with should he care to contribute. He's utilized none of this. I am unimpressed.,en,0,English_CB,twitter,1,1,1,1,1,False Positive,other ,register
+@g_worroll it's off now. It was just continuously engaged for a very long time. The water here is crazy.,en,0,English_CB,twitter,1,1,1,1,1,False Positive,lexical trigger,
+"@MyersNFL oh, gosh. i hope you feel better. :(",en,0,English_CB,twitter,0,1,1,1,1,False Positive,cultural,could be simple phrase or sarcasm
+"@halalcunty @biebervalue @liamxkiwi @halalflaws And now you are again beaten; and for being a liar, again blocked.",en,0,English_CB,twitter,1,0,1,0,1,False Positive,lexical trigger,
