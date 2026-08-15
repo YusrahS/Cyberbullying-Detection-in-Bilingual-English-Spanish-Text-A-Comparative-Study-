@@ -1,4 +1,4 @@
-Model,ES-only,ES→EN,Transfer cost (pp)
+Model,ES-only,ES→EN,Drop from Spanish ability (pp)
 XLM-R,0.886,0.6313,25.5
 BETO (monolingual ES),0.899,0.6194,28.0
 BiLSTM,0.7691,0.4462,32.3
