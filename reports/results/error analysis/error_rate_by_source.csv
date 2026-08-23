@@ -1,0 +1,11 @@
+source,n,errors,error_rate
+Colombian,398,82,20.6
+OffendES,2668,349,13.08
+English_CB,6092,661,10.85
+ES_homomex,40,3,7.5
+ES_chileno,102,7,6.86
+ES_hascosva,64,2,3.12
+ES_haternet,258,8,3.1
+ES_hateval,397,9,2.27
+TweetEval,3751,19,0.51
+ES_misocorpus,214,1,0.47

@@ -1,0 +1,7 @@
+error_category,English,Spanish,Total
+other,11,7,18
+ambiguous,7,7,14
+lexical trigger,6,7,13
+implicit,2,5,7
+label_noise,3,3,6
+cultural,1,1,2
