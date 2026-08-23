@@ -1,0 +1,5 @@
+Combination,k,Bilingual (EN+ES),English subset,Spanish subset,Unanimous (%)
+distilbert + mbert,2,0.9127,0.9286,0.8748,95.42
+distilbert + xlmr,2,0.9202,0.9319,0.8923,93.84
+mbert + xlmr,2,0.9203,0.9311,0.8945,93.85
+distilbert + mbert + xlmr,3,0.9184,0.9309,0.8887,91.55

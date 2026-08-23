@@ -1,0 +1,4 @@
+Test set,n,Pair outvotes XLM-R,XLM-R correct,Pair correct,Ensemble follows pair,% of set
+Bilingual (EN+ES),13984,540,280,260,428,3.86
+Spanish subset,4141,277,152,125,235,6.69
+English subset,9843,263,128,135,193,2.67
